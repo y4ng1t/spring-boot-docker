@@ -1,7 +1,9 @@
 rootProject.name = 'Jhooq-k8s'
+
 develocity {
     buildScan {
         termsOfUseUrl = "https://gradle.com/help/legal-terms-of-use"
         termsOfUseAgree = "yes"
     }
 }
+
