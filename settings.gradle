@@ -1,1 +1,5 @@
 rootProject.name = 'Jhooq-k8s'
+buildScan {
+    termsOfServiceUrl = 'https://gradle.com/terms-of-service'
+    termsOfServiceAgree = 'yes'
+}
