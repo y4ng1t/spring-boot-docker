@@ -1,1 +1,1 @@
-rootProject.name = 'Jhooq-docker-demo'
+rootProject.name = 'spring-boot-docker'
