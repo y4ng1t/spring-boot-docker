@@ -1,1 +1,5 @@
 rootProject.name = 'Jhooq-docker-demo'
+plugins {
+    id 'java'
+    id 'maven'
+}
